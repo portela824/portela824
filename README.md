@@ -1,4 +1,4 @@
-<h1 align="left">Hola 👋,  my name is José Portela</h1>
+<h1 align="left">Hola 👋,  my name is José G. Portela</h1>
 
 ###
 
