@@ -36,16 +36,6 @@
 
 ###
 
-<div align="center">
-  <a href="www.linkedin.com/in/jose-g-portela0998" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="jose_portela@live.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
-  </a>
-</div>
-
-###
 
 <!--
 **portela824/portela824** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
