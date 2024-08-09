@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Currently working as a Data Analyst at Grupo Nexos Inc.<br>---<br><br>📚 Educational Background<br><br>Graduate School of Public Health at the University of Puerto Rico, Medical Sciences Campus<br>- Master's in Public Health (MPH) in  Biostatistics  (Candidate)<br><br>University of Puerto Rico, Río Piedras Campus<br>- Bachelor of Science (B.S.) in Computational Mathematics and Statistics<br><br>IronHack<br>- Certificate in Data Analytics <br><br>🔬 Research Experience<br>- Contributed to the **Artificial Intelligence and Machine Learning Applied to Health Disparities (AIML+HDR) project**, where I applied Python-based machine learning techniques to address health disparities. <br><br>---</p>
+<p align="left">Currently working as a Data Analyst at Grupo Nexos Inc.<br>---<br><br>📚 Educational Background<br><br>Graduate School of Public Health at the University of Puerto Rico, Medical Sciences Campus<br>- Master's in Public Health (MPH) in  Biostatistics  (Candidate)<br><br>University of Puerto Rico, Río Piedras Campus<br>- Bachelor of Science (B.S.) in Computational Mathematics and Statistics<br><br>IronHack<br>- Certificate in Data Analytics <br><br>🔬 Research Experience<br>- Contributed to the Artificial Intelligence and Machine Learning Applied to Health Disparities (AIML+HDR) project, where I applied Python-based machine learning techniques (e.g. Scikit-learn) to address health disparities. <br><br>---</p>
 
 ###
 
