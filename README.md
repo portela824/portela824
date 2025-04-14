@@ -11,13 +11,13 @@
  <br><br>📚 Educational Background <br><br> 
  
  - **Master's in Public Health (MPH) in  Biostatistics**
-   Graduate School of Public Health at the University of Puerto Rico, Medical Sciences Campus
+ - Graduate School of Public Health at the University of Puerto Rico, Medical Sciences Campus
  <br><br>  
  - **Bachelor of Science (B.S.) in Computational Mathematics and Statistics**
-   University of Puerto Rico, Río Piedras Campus
+ - University of Puerto Rico, Río Piedras Campus
    <br><br> 
  - **Certificate in Data Analytics**
-   IronHack 
+ - IronHack 
  
  <br><br> 🔬 Research Experience <br><br>
 
