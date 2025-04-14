@@ -8,7 +8,7 @@
 
 <p align="left"> Work Experience <br><br> Grupo Nexos Inc.: <br><br> Have experience in database creation and management, utilizing Excel and SQL for tasks such as cleaning, merging, importing, and exporting databases. I conducted a secure merge of datasets using SQL, successfully handling a project involving approximately 24.8 million observations without data loss or duplication. Additionally, I monitored and supported a public access platform, ensuring accessibility, performance, and content accuracy, including updating geographic data and preparing detailed weekly reports with insights and recommendations for improvement. This role also involved active participation in weekly meetings with primary and secondary teams, as well as clients, to align goals and strategies.
  
- <br><br>📚 Educational Background <br><br> - **Master's in Public Health (MPH) in  Biostatistics**<be> Graduate School of Public Health at the University of Puerto Rico, Medical Sciences Campus <br><br> - **Bachelor of Science (B.S.) in Computational Mathematics and Statistics** <be> University of Puerto Rico, Río Piedras Campus<br><br> - **Certificate in Data Analytics** <be> IronHack 
+ <br><br>📚 Educational Background <br><br> - **Master's in Public Health (MPH) in  Biostatistics**<br> Graduate School of Public Health at the University of Puerto Rico, Medical Sciences Campus <br><br> - **Bachelor of Science (B.S.) in Computational Mathematics and Statistics** <br> University of Puerto Rico, Río Piedras Campus<br><br> - **Certificate in Data Analytics** <br> IronHack 
  
  <br><br> 🔬 Research Experience <br><br>
 
