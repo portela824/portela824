@@ -6,7 +6,21 @@
 
 ###
 
-<p align="left"> Work Experience <br><br> Grupo Nexos Inc.:  <br><br> Have experience in database creation and management, utilizing Excel and SQL for tasks such as cleaning, merging, importing, and exporting databases. Notably, I conducted a secure merge of datasets using SQL, successfully handling a project involving approximately 24.8 million observations without data loss or duplication. Additionally, I monitored and supported a public access platform, ensuring accessibility, performance, and content accuracy, including updating geographic data and preparing detailed weekly reports with insights and recommendations for improvement. This role also involved active participation in weekly meetings with primary and secondary teams, as well as clients, to align goals and strategies. <br>---<br><br>📚 Educational Background<br><br>Master's in Public Health (MPH) in  Biostatistics<br>- Graduate School of Public Health at the University of Puerto Rico, Medical Sciences Campus <br><br>Bachelor of Science (B.S.) in Computational Mathematics and Statistics<br>- University of Puerto Rico, Río Piedras Campus<br><br>Certificate in Data Analytics <br>- IronHack <br><br>🔬 Research Experience<br>- Contributed to the Artificial Intelligence and Machine Learning Applied to Health Disparities (AIML+HDR) project, where I applied Python-based machine learning techniques (e.g. Scikit-learn) to address health disparities. <br><br>---</p>
+<p align="left"> Work Experience <br><br> Grupo Nexos Inc.:  <br><br> Have experience in database creation and management, utilizing Excel and SQL for tasks such as cleaning, merging, importing, and exporting databases. I conducted a secure merge of datasets using SQL, successfully handling a project involving approximately 24.8 million observations without data loss or duplication. Additionally, I monitored and supported a public access platform, ensuring accessibility, performance, and content accuracy, including updating geographic data and preparing detailed weekly reports with insights and recommendations for improvement. This role also involved active participation in weekly meetings with primary and secondary teams, as well as clients, to align goals and strategies. <br>---<br><br>📚 Educational Background<br><br>Master's in Public Health (MPH) in  Biostatistics<br>- Graduate School of Public Health at the University of Puerto Rico, Medical Sciences Campus <br><br>Bachelor of Science (B.S.) in Computational Mathematics and Statistics<br>- University of Puerto Rico, Río Piedras Campus<br><br>Certificate in Data Analytics <br>- IronHack <br><br>🔬 Research Experience<br><br>
+
+- **Capstone Project – Graduate School of Public Health, University of Puerto Rico (June–July 2024)**  
+Collaborated with biostatistics and epidemiology graduate students on the research project *“Prevalence, Knowledge, and Attitudes Towards Gender Violence in Women Receiving Primary Services in Puerto Rico.”* Responsibilities included conducting extensive literature reviews (50–200+ studies), managing survey data entry, creating Stata scripts, and performing statistical analysis. Co-developed a comprehensive report and presentation under the guidance of Dr. Cynthia Pérez Cardona and Dr. Gilberto Ramos Valencia.
+<br>
+- **Data Analysis Consultant – PhD Dissertation (June–July 2023)**  
+Provided statistical consulting for Solimar Pinto Pacheco’s PhD research on spatiotemporal water dynamics and plant water use in an urban coastal wetland. Assisted with Bayesian analysis using MixSIAR and collaborated closely with the advisor, Dr. Elvira Cuevas, to interpret and communicate findings.
+<br>
+- **Course Project – Graduate Research / Teaching Assistant (Nov 2022–May 2023)**  
+Assisted in the course *“Artificial Intelligence / Machine Learning Application in Health Disparities”* by integrating Python-based machine learning to address public health challenges. Prepared lecture materials and demonstrative videos (using Scikit-learn and Caret) and evaluated assignments. The tools used included Anaconda and Jupyter Notebook.
+<br>
+- **Research Assistant – Assistantship Program (Sept 2022–Feb 2023)**  
+Supported Dr. Istoni da Luz Sant’Ana’s study on COVID-19 outcomes among individuals with and without HIV. Conducted literature reviews, explored Bayesian Survival Analysis methods using WinBUGS and RStudio, and practiced document preparation in LaTeX.
+
+ <br><br>---</p>
 
 ###
 
