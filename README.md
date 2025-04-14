@@ -6,7 +6,12 @@
 
 ###
 
-<p align="left"> Work Experience <br><br> Grupo Nexos Inc.: <br><br> Have experience in database creation and management, utilizing Excel and SQL for tasks such as cleaning, merging, importing, and exporting databases. I conducted a secure merge of datasets using SQL, successfully handling a project involving approximately 24.8 million observations without data loss or duplication. Additionally, I monitored and supported a public access platform, ensuring accessibility, performance, and content accuracy, including updating geographic data and preparing detailed weekly reports with insights and recommendations for improvement. This role also involved active participation in weekly meetings with primary and secondary teams, as well as clients, to align goals and strategies.
+<p align="left"> 
+ 
+<br><br> Work Experience <br><br> 
+
+- **Grupo Nexos Inc.**
+<br> Have experience in database creation and management, utilizing Excel and SQL for tasks such as cleaning, merging, importing, and exporting databases. I conducted a secure merge of datasets using SQL, successfully handling a project involving approximately 24.8 million observations without data loss or duplication. Additionally, I monitored and supported a public access platform, ensuring accessibility, performance, and content accuracy, including updating geographic data and preparing detailed weekly reports with insights and recommendations for improvement. This role also involved active participation in weekly meetings with primary and secondary teams, as well as clients, to align goals and strategies.
  
  <br><br>📚 Educational Background <br><br> 
  
@@ -33,7 +38,7 @@ Assisted in the course *“Artificial Intelligence / Machine Learning Applicatio
 - **Research Assistant – Assistantship Program (Sept 2022–Feb 2023)**  
 Supported Dr. Istoni da Luz Sant’Ana’s study on COVID-19 outcomes among individuals with and without HIV. Conducted literature reviews, explored Bayesian Survival Analysis methods using WinBUGS and RStudio, and practiced document preparation in LaTeX.
 
- <br><br>---</p>
+ <br><br> </p>
 
 ###
 
