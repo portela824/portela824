@@ -4,8 +4,6 @@
 
 <h3 align="left">👩‍💻  A little about me :</h3>
 
-###
-
 <p align="left"> 
  
 <br><br> Work Experience <br><br> 
