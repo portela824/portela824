@@ -1,5 +1,5 @@
 <h1 align="left">Hola 👋 I'm José G. Portela,<br>
- 
+### 
  A data analyst and public health researcher. Love exploring data, solving problems with code, and building tools that matter. Thanks for visiting my GitHub!</h1>
 
 ###
