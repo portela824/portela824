@@ -10,13 +10,13 @@
 
 - **Capstone Project – Graduate School of Public Health, University of Puerto Rico (June–July 2024)**  
 Collaborated with biostatistics and epidemiology graduate students on the research project *“Prevalence, Knowledge, and Attitudes Towards Gender Violence in Women Receiving Primary Services in Puerto Rico.”* Responsibilities included conducting extensive literature reviews (50–200+ studies), managing survey data entry, creating Stata scripts, and performing statistical analysis. Co-developed a comprehensive report and presentation under the guidance of Dr. Cynthia Pérez Cardona and Dr. Gilberto Ramos Valencia.
-<br>
+<br><br>
 - **Data Analysis Consultant – PhD Dissertation (June–July 2023)**  
 Provided statistical consulting for Solimar Pinto Pacheco’s PhD research on spatiotemporal water dynamics and plant water use in an urban coastal wetland. Assisted with Bayesian analysis using MixSIAR and collaborated closely with the advisor, Dr. Elvira Cuevas, to interpret and communicate findings.
-<br>
+<br><br>
 - **Course Project – Graduate Research / Teaching Assistant (Nov 2022–May 2023)**  
 Assisted in the course *“Artificial Intelligence / Machine Learning Application in Health Disparities”* by integrating Python-based machine learning to address public health challenges. Prepared lecture materials and demonstrative videos (using Scikit-learn and Caret) and evaluated assignments. The tools used included Anaconda and Jupyter Notebook.
-<br>
+<br><br>
 - **Research Assistant – Assistantship Program (Sept 2022–Feb 2023)**  
 Supported Dr. Istoni da Luz Sant’Ana’s study on COVID-19 outcomes among individuals with and without HIV. Conducted literature reviews, explored Bayesian Survival Analysis methods using WinBUGS and RStudio, and practiced document preparation in LaTeX.
 
