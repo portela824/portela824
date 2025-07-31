@@ -1,83 +1,71 @@
-<h1 align="left">Hola 👋 I'm José G. Portela,<br>
+<h1 align="left">Hola 👋 I'm José G. Portela</h1>
 
 ### 
- A data analyst and public health researcher. Love exploring data, solving problems with code, and building tools that matter. Thanks for visiting my GitHub!</h1>
+Biostatistician, Mathematician, and data analyst focused on public health, social equity, and data-driven decision-making. I love exploring complex datasets, solving real-world problems with code, and collaborating across disciplines to build tools and insights that matter.
 
-###
+---
 
-<h3 align="left">👩‍💻  A little about me :</h3>
+### 👨‍💻 About Me
 
-<p align="left"> 
- 
-<br><br> Work Experience <br><br> 
+<p align="left">
 
-- **Grupo Nexos Inc.**
-<br> Have experience in database creation and management, utilizing Excel and SQL for tasks such as cleaning, merging, importing, and exporting databases. I conducted a secure merge of datasets using SQL, successfully handling a project involving approximately 24.8 million observations without data loss or duplication. Additionally, I monitored and supported a public access platform, ensuring accessibility, performance, and content accuracy, including updating geographic data and preparing detailed weekly reports with insights and recommendations for improvement. This role also involved active participation in weekly meetings with primary and secondary teams, as well as clients, to align goals and strategies.
- 
- <br><br>📚 Educational Background <br><br> 
- 
- - **Master's in Public Health (MPH) in  Biostatistics**
-   <br> Graduate School of Public Health at the University of Puerto Rico, Medical Sciences Campus
- <br><br>  
- - **Bachelor of Science (B.S.) in Computational Mathematics and Statistics**
-   <br> University of Puerto Rico, Río Piedras Campus
-   <br><br> 
- - **Certificate in Data Analytics**
-   <br> IronHack 
- 
- <br><br> 🔬 Research Experience <br><br>
+💼 <strong>Current Role</strong><br><br>
 
-- **Capstone Project – Graduate School of Public Health, University of Puerto Rico (June–July 2024)**  
-Collaborated with biostatistics and epidemiology graduate students on the research project *“Prevalence, Knowledge, and Attitudes Towards Gender Violence in Women Receiving Primary Services in Puerto Rico.”* Responsibilities included conducting extensive literature reviews (50–200+ studies), managing survey data entry, creating Stata scripts, and performing statistical analysis. Co-developed a comprehensive report and presentation under the guidance of Dr. Cynthia Pérez Cardona and Dr. Gilberto Ramos Valencia.
-<br><br>
-- **Data Analysis Consultant – PhD Dissertation (June–July 2023)**  
-Provided statistical consulting for Solimar Pinto Pacheco’s PhD research on spatiotemporal water dynamics and plant water use in an urban coastal wetland. Assisted with Bayesian analysis using MixSIAR and collaborated closely with the advisor, Dr. Elvira Cuevas, to interpret and communicate findings.
-<br><br>
-- **Course Project – Graduate Research / Teaching Assistant (Nov 2022–May 2023)**  
-Assisted in the course *“Artificial Intelligence / Machine Learning Application in Health Disparities”* by integrating Python-based machine learning to address public health challenges. Prepared lecture materials and demonstrative videos (using Scikit-learn and Caret) and evaluated assignments. The tools used included Anaconda and Jupyter Notebook.
-<br><br>
-- **Research Assistant – Assistantship Program (Sept 2022–Feb 2023)**  
-Supported Dr. Istoni da Luz Sant’Ana’s study on COVID-19 outcomes among individuals with and without HIV. Conducted literature reviews, explored Bayesian Survival Analysis methods using WinBUGS and RStudio, and practiced document preparation in LaTeX.
+- **Biostatistician & Data Analyst | Independent Contractor** (May 2025 – Present)  
+  - Build, manage, and document large databases (Excel, R, Python, SQL).  
+  - Provide statistical consulting for public health and infrastructure projects.  
+  - Collaborate with professionals from multiple fields to deliver data products aligned with policy and planning goals.  
+  - Conduct socioeconomic analyses focused on poverty, employment, health coverage, and demographic projections.
 
- <br><br> </p>
+- **Data Analyst – Grupo Nexos Inc.** (April – June 2024)  
+  - Handled secure merges of datasets with over 24.8M records.  
+  - Ensured functionality, accuracy, and usability of a public access platform.  
+  - Delivered weekly reports and presented findings to technical and client teams.
 
-###
-<h3 align="left">🛠 Language and tools</h3>
+<br><br>🔬 <strong>Research Projects</strong><br><br>
+
+- **Capstone Project – Gender Violence & Health Services** (Jun–Jul 2024)  
+  Along with other biostatistics and epidemiology graduate students, designed and conducted statistical analysis for a study titled: "Prevalence, knowledge, and attitudes of gender-based violence in women receiving services in primary care health centers in Puerto Rico". Contributed to survey design, data entry, Stata scripting, and reporting under Drs. Cynthia Pérez and Gilberto Ramos.
+
+- **PhD Dissertation Support – Urban Wetlands & Bayesian Modeling** (Jun–Jul 2023)  
+  Guided a PhD student (at the time) in Bayesian analysis (MixSIAR in R) for research on plant-water interactions in tropical wetlands. Collaborated with Solimar Pinto Pacheco, PhD, and Dr. Elvira Cuevas.
+
+- **AI/ML & Health Disparities Course Project** (Nov 2022 – May 2023)  
+  Supported instruction and analysis in a course applying Python (Scikit-learn, Jupyter, Anaconda) to study health disparities. Created demos and graded student assignments.
+
+- **COVID & HIV Study – Bayesian Survival Analysis** (Sept 2022 – Feb 2023)  
+  Reviewed literature, practiced statistical modeling in WinBUGS/R, and prepared documents in LaTeX for a study on COVID outcomes among people living with and without HIV.
+
+</p>
+
+---
+
+### 🛠 Languages & Tools
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="R" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="Anaconda" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="LaTeX" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="latex logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40" alt="putty logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="RStudio" />
 </div>
 
-###
-
-
+---
 <!--
 **portela824/portela824** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Things I’m currently working on:
+- Health data integration platforms
+- Automating quarterly indicator reports
+- Reproducible research templates (R + Python)
 -->
