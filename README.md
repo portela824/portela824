@@ -1,7 +1,7 @@
-<h1 align="left">Hola 👋 I'm José G. Portela</h1>
+<h1 align="left">Hi👋, I'm José G. Portela</h1>
 
 ### 
-Biostatistician, Mathematician, and data analyst focused on public health, social equity, and data-driven decision-making. I love exploring complex datasets, solving real-world problems with code, and collaborating across disciplines to build tools and insights that matter.
+Biostatistician, mathematician, and data analyst passionate about public health, equity, and transforming data into actionable solutions. As someone living with epilepsy, I am a lifelong learner with a deep interest in epilepsy-related conditions, data-driven public health topics, and the mathematical concepts that underpin them.
 
 ---
 
@@ -25,7 +25,7 @@ Biostatistician, Mathematician, and data analyst focused on public health, socia
 <br><br>🔬 <strong>Research Projects</strong><br><br>
 
 - **Capstone Project – Gender Violence & Health Services** (Jun–Jul 2024)  
-  Along with other biostatistics and epidemiology graduate students, designed and conducted statistical analysis for a study titled: "Prevalence, knowledge, and attitudes of gender-based violence in women receiving services in primary care health centers in Puerto Rico". Contributed to survey design, data entry, Stata scripting, and reporting under Drs. Cynthia Pérez and Gilberto Ramos.
+  Collaborating with fellow graduate students in biostatistics and epidemiology, I designed and conducted statistical analyses for a study titled "Prevalence, Knowledge, and Attitudes of Gender-Based Violence among Women Receiving Services in Primary Care Health Centers in Puerto Rico." I contributed to survey design, data entry, Stata programming, and reporting under the guidance of Drs. Cynthia Pérez and Gilberto Ramos.
 
 - **PhD Dissertation Support – Urban Wetlands & Bayesian Modeling** (Jun–Jul 2023)  
   Guided a PhD student (at the time) in Bayesian analysis (MixSIAR in R) for research on plant-water interactions in tropical wetlands. Collaborated with Solimar Pinto Pacheco, PhD, and Dr. Elvira Cuevas.
@@ -62,7 +62,7 @@ Biostatistician, Mathematician, and data analyst focused on public health, socia
 
 <br/>
 
-**Also experienced in:** Stata · Excel · Epi Info · OpenEpi 
+**Also experienced in:** Excel · Stata · Epi Info · OpenEpi 
 
 ---
 <!--
