@@ -1,7 +1,7 @@
 <h1 align="left">Hi👋, I'm José G. Portela</h1>
 
 ### 
-Biostatistician, mathematician, and data analyst passionate about public health, equity, and transforming data into actionable solutions. As someone living with epilepsy, I am a lifelong learner with a deep interest in epilepsy-related conditions, data-driven public health topics, and the mathematical concepts that underpin them.
+Biostatistician, mathematician, and data analyst passionate about public health, equity, and transforming data into actionable solutions. As someone living with epilepsy, I am a lifelong learner with a deep interest in epilepsy-related conditions, data-driven public health topics, and the mathematical concepts that underpin them. I'm also intellectually curious beyond my field, with a particular appreciation for historical topics as a lens to understand broader social and scientific contexts.
 
 ---
 
