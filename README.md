@@ -11,7 +11,7 @@ Biostatistician, mathematician, and data analyst passionate about public health,
 
 💼 <strong>Current Role</strong><br><br>
 
-- **Biostatistician & Data Analyst | Independent Contractor** (May 2025 – Present)  
+- **Biostatistician & Data Analyst | Independent Contractor** (May 2025 – December 2025)  
   - Build, manage, and document large databases (Excel, R, Python, SQL).  
   - Provide statistical consulting for public health and infrastructure projects.  
   - Collaborate with professionals from multiple fields to deliver data products aligned with policy and planning goals.  
